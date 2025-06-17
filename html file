@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Aviator Smart Signal Bot</title>
+  <style>
+    body {
+      background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+      font-family: 'Segoe UI', sans-serif;
+      color: white;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+
+    .container {
+      max-width: 700px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 1.2rem;
+      line-height: 1.6;
+    }
+
+    .btn {
+      margin: 20px 10px;
+      padding: 15px 25px;
+      font-size: 1rem;
+      background-color: #ff4747;
+      border: none;
+      color: white;
+      border-radius: 8px;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-block;
+    }
+
+    .btn:hover {
+      background-color: #ff1c1c;
+    }
+
+    footer {
+      margin-top: 50px;
+      font-size: 0.9rem;
+      color: #bbb;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>🚀 Aviator Smart Signal Bot</h1>
+    <p>
+      Get accurate signals between <strong>1.30x to 2.50x</strong> with our advanced Telegram bot.<br/>
+      Updated every 5 minutes. Start winning smart!
+    </p>
+
+    <a class="btn" href="https://www.inaviator.com/#/register?refcode=71666609644" target="_blank">🎮 Register to Play</a>
+    <a class="btn" href="https://t.me/aviatorsingl02" target="_blank">📲 Join Telegram</a>
+
+    <footer>
+      &copy; 2025 Aviator Smart Signal by Magam Yogesh 🚀
+    </footer>
+  </div>
+
+</body>
+</html>
